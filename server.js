@@ -16,7 +16,7 @@ app.use(express.json());
 
 
 app.get("/", (req, res) => {
-  res.send("Welcome to Chowdeck 👋");
+  res.send("Welcome to Chowdeck");
 });
 
 
